@@ -2,6 +2,9 @@
 
 Action to update the release notes file in oscar-system universe
 
+> [!WARNING]
+> This action will no longer be supported, please use <https://github.com/oscar-system/update-release-notes/> instead.
+
 ## Usage
 
 > For now, the repository is still named `oscar-system/changelog-script`. This will soon be renamed
