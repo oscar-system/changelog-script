@@ -3,7 +3,7 @@
 Action to update the release notes file in oscar-system universe
 
 > [!WARNING]
-> This action will no longer be supported, please use <https://github.com/oscar-system/update-release-notes/> instead.
+> This action is no longer supported, please use <https://github.com/oscar-system/update-release-notes/> instead.
 
 ## Usage
 
